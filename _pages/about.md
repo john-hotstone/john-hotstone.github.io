@@ -1,29 +1,19 @@
 ---
-layout: page
+layout: page_no_heading
 title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## Was erwartet mich hier?
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Ein bisschen dies, ein bisschen das, aber vor allem alles was mich so bewegt. Und dich vielleicht auch bald ;).
 
-## Features
+Wie das Leben ist das hier ein Gemischtwarenladen mit den unterschiedlichsten Themen die mir so in den Sinn kommen.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Wenn dich das eine oder andere Thema brennend interessiert oder du weitere Infos möchtest freue ich mich über eine Nachricht.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+In diesem Sinne: Viel Spaß und Game On.
+
+## Me, Myself and I
+
+Deswegen bist du sicher nicht da ;). Schau lieber auf den Content, dann lernst du mich schon kennen.
