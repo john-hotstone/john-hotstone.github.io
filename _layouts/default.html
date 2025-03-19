@@ -22,33 +22,37 @@
 	</script>
 
 	<script>
-		const analyticsConsent = document.cookie.includes('cookie-notice-dismissed=true');
+		document.addEventListener("DOMContentLoaded", function() {
+			// Funktion zum Auslesen des Cookies
+			function getCookie(name) {
+				const value = `; ${document.cookie}`;
+				const parts = value.split(`; ${name}=`);
+				if (parts.length === 2) return parts.pop().split(';').shift();
+			}
 
-		if (analyticsConsent) {
-			document.addEventListener("DOMContentLoaded", function() {
-				// GA4 Script laden und konfigurieren
-			(function(i,s,o,g,r,a,m){ 
-				i['GoogleAnalyticsObject']=r;
-				i[r]=i[r]||function(){ 
-					(i[r].q=i[r].q||[]).push(arguments) 
-				},i[r].l=1*new Date(); 
-				a=s.createElement(o),
-				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;
-				m.parentNode.insertBefore(a,m)
-			})(window,document,'script','https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}','ga');
+			// Cookie-Wert auslesen
+			const analyticsConsent = getCookie("cookie-notice-dismissed");
 
+			if (analyticsConsent === "true") {
+				// Google Tag (gtag.js) einbinden
+				const script = document.createElement("script");
+				script.async = true;
+				script.src = "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}";
+				document.head.appendChild(script);
 
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-
-			gtag('config', '{{ site.google_analytics }}' , {
-				'cookie_domain': 'auto' // oder explizit: 'example.com'
-			});
-			
-		} else {
-			console.log("Google Analytics is deactivated.");
-		}
+				// GA4 initialisieren
+				script.onload = function() {
+					window.dataLayer = window.dataLayer || [];
+					function gtag() {
+						dataLayer.push(arguments);
+					}
+					gtag('js', new Date());
+					gtag('config', '{{ site.google_analytics }}');
+				};
+			} else {
+				console.log("Google Analytics wurde nicht aktiviert, da das Cookie nicht gesetzt oder abgelehnt wurde.");
+			}
+		});
 	</script>
   </head>
 
