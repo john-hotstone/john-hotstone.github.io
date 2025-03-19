@@ -42,7 +42,8 @@
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
 
-			gtag('config', '{{ site.google_analytics }}'); // Deine GA4-Tracking-ID
+			gtag('config', '{{ site.google_analytics }}' , {
+				'cookie_domain': 'auto' // oder explizit: 'example.com'
 			});
 			
 		} else {
