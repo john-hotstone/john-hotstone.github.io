@@ -11,7 +11,49 @@
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.png">
-    {% include analytics_head.html %}
+	
+	<script>
+	  function getCookie(name) {
+		const value = `; ${document.cookie}`;
+		const parts = value.split(`; ${name}=`);
+		if (parts.length === 2) return parts.pop().split(';').shift();
+		return null; // Return null if cookie does not exist
+	  }
+	</script>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			// Funktion zum Auslesen des Cookies
+			function getCookie(name) {
+				const value = `; ${document.cookie}`;
+				const parts = value.split(`; ${name}=`);
+				if (parts.length === 2) return parts.pop().split(';').shift();
+			}
+
+			// Cookie-Wert auslesen
+			const analyticsConsent = getCookie("cookie-notice-dismissed");
+
+			if (analyticsConsent === "true") {
+				// Google Tag (gtag.js) einbinden
+				const script = document.createElement("script");
+				script.async = true;
+				script.src = "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}";
+				document.head.appendChild(script);
+
+				// GA4 initialisieren
+				script.onload = function() {
+					window.dataLayer = window.dataLayer || [];
+					function gtag() {
+						dataLayer.push(arguments);
+					}
+					gtag('js', new Date());
+					gtag('config', '{{ site.google_analytics }}');
+				};
+			} else {
+				console.log("Google Analytics wurde nicht aktiviert, da das Cookie nicht gesetzt oder abgelehnt wurde.");
+			}
+		});
+	</script>
   </head>
 
   <body>
@@ -54,8 +96,7 @@
         </div>
       </div>
     </div>
-
-    {% include analytics.html %}
 	{% include cookie-consent.html %}
+	
   </body>
 </html>
