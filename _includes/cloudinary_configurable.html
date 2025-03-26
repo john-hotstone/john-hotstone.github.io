@@ -1,0 +1,13 @@
+{% assign default_scaling_sizes = site.cloudinary_scaling_sizes %}
+{% assign include_scaling_sizes = include.sizes | split: ',' %}
+{% assign final_scaling_sizes = include_scaling_sizes | default: default_scaling_sizes %}
+{% assign srcset_string = "" %}
+{% assign default_sizes_attribute = site.cloudinary_sizes_attribute %}
+{% assign include_sizes_attribute = include.sizes_attribute %}
+{% assign final_sizes_attribute = include_sizes_attribute | default: default_sizes_attribute %}
+
+<img sizes="{{ final_sizes_attribute }}" srcset="{% for size in final_scaling_sizes %}
+        {% assign srcset_string = srcset_string | append: "https://res.cloudinary.com/" | append: site.cloudinary_project | append: "/image/upload/f_auto/q_auto/c_scale,w_" | append: size | append: "/" | append: include.picture_name | append: " " | append: size | append: "w" %}
+        {% unless forloop.last %}{% assign srcset_string = srcset_string | append: ", " %}{% endunless %}
+    {% endfor %}{{ srcset_string }}" src="https://res.cloudinary.com/{{ site.cloudinary_project }}/image/upload/f_auto/q_auto/c_scale,w_1280/{{ include.picture_name }}"
+    alt="{{ include.alternative_text }}"/>
