@@ -14,7 +14,7 @@ Standardmäßig kann man natürlich ohne weiteres Bilder mit Jekyll direkt einbi
 
 Das funktioniert hervorragend für kleine Bilder und wenn keine automatische Skalierung der angezeigten Bilder gefordert ist die über das resizen hinausgeht.
 
-Nachteil:Die Bilder belegen Speicher im Repository.  GitHub Pages hat für seine Seiten aber eine Limitierung von 1 GB. Das klingt erstmal viel, wenn man aber hochauflösende Bilder ausspielen will kommt man da bei einem größeren Blog oder längeren Fotostrecken schnell an seine Grenzen.
+Nachteil: Die Bilder belegen Speicher im Repository. GitHub Pages hat für seine Seiten aber eine Limitierung von 1 GB. Das klingt erstmal viel, wenn man aber hochauflösende Bilder ausspielen will kommt man da bei einem größeren Blog oder längeren Fotostrecken schnell an seine Grenzen.
 
 Verschärft wird das noch durch responsives Design bzw. die notwendige Skalierung. Ein Bild auf einem Handybildschirm braucht natürlich bei weitem nicht dieselbe Auflösung wie auf einem 4k oder 8k Monitor. Im Sinne der Datensparsamkeit und damit die Webseite schnell bleibt möchte man daher nur die notwendige Größe basierend auf dem Viewport des Nutzers ausspielen. Damit das funktioniert, muss dasselbe Bild in verschiedenen Auflösungen vorliegen, damit dann dynamisch das richtige Bild angezeigt werden kann. Das bedeutet zusätzliche (manuelle) Arbeit für die Erstellung dieser Bilder durch den Blogbetreiber und belastet zusätzlich das Github Repository.
 
@@ -29,9 +29,9 @@ Die einfachste Form wäre die Einbindung einer externen Bildquelle via image Tag
 Ergebnis - per Image Tage von extern geladen:
 <img src="https://res.cloudinary.com/dc0ncqsdx/image/upload/v1742813471/404_fwlf27.jpg" alt="Per Image Tag eingebunden" width="100" height="100">
 
-Die Quelle kann ein beliebige Webquelle sein. Neben Cloudspeichern wie Google Drive, Dropbox oder Amazon S3 kommen dafür auch andere Github Repos sein. Das Resizing übernehmen diese aber noch nicht für uns, das ist also nur die halbe Miete.
+Die Quelle kann ein beliebige Webquelle sein. Neben Cloudspeichern wie Google Drive, Dropbox oder Amazon S3 kommen dafür auch andere Github Repos in Frage. Das Resizing übernehmen diese aber noch nicht für uns, das ist also nur die halbe Miete.
 
-Für Datenintensive Anwendungen bieten sich generell CDN (Content Delivery Network) an. Diese sind darauf ausgelegt massiv zu skalieren und große Datenmengen wie Bilder oder Videso effizient und schnell bereitzustellen ohne die eigentliche Website zu belasten. Insbesondere für Bilder gibt es dann noch spezialisierte Image CDN, die neben der reinen Bildbereitstellung auch noch Optionen zur Manipulation und Optimierung der Bilder anbieten, was automatisiert oder über URL direktiven (Parameter innerhalb der URL die die Einfluss auf die Verarbeitung der Anfrage im CDN nehmen) erfolgen kann. Beispiele für Anbieter solcher Image CDNs sind Cloudflare, Imgix und Cloudinary.
+Für Datenintensive Anwendungen bieten sich generell CDN (Content Delivery Network) an. Diese sind darauf ausgelegt massiv zu skalieren und große Datenmengen wie Bilder oder Videos effizient und schnell bereitzustellen ohne die eigentliche Website zu belasten. Insbesondere für Bilder gibt es dann noch spezialisierte Image CDN, die neben der reinen Bildbereitstellung auch noch Optionen zur Manipulation und Optimierung der Bilder anbieten, was automatisiert oder über URL direktiven (Parameter innerhalb der URL die Einfluss auf die Verarbeitung der Anfrage im CDN nehmen) erfolgen kann. Beispiele für Anbieter solcher Image CDNs sind Cloudflare, Imgix und Cloudinary.
 
 Da ein kleiner frisch gestarteter Blog nicht zu kostenintensiv sein soll, bieten sich die kostenlosen Pläne der Anbieter an um herauszufinden ob die Lösung etwas für deine Webseite ist.
 
