@@ -251,7 +251,7 @@ Was denkst du dazu? Über Feedback und Verbesserungsvorschläge freue ich mich u
 Hotstone out.
 
 ## Weitere Ressourcen
-* Im [Quellcode dieser Seite](https://github.com/john-hotstone/john-hotstone.github.io/blob/master/_posts/2025-3-24-Cloudinary-pictures.md) findest du übrigens Beispiele für ein paar der besprochenen Varianten, also schau gerne dort rein wenn dich die tatsächliche Implementierung interessiert.
+* Im [Quellcode dieser Seite](https://github.com/john-hotstone/john-hotstone.github.io/blob/master/_posts/2025-3-24-cloudinary-pictures.md) findest du übrigens Beispiele für ein paar der besprochenen Varianten, also schau gerne dort rein wenn dich die tatsächliche Implementierung interessiert.
 * Ein Post, der beschreibt wie die Fetch Funktion verwendet werden kann um Bilder aus dem Repository mit Cloudinary zu skalieren ist [hier](https://tiberriver256.github.io/jekyll/web%20development/jekyll-cloudinary-github-compatible-snippet/) zu finden. Von dort stammt auch das wiederverwendbare HTML Template Snippet von oben.
 * Ein [Jekyll Plugin](https://github.com/nhoizey/jekyll-cloudinary) das einen Liquid Tag anbietet um die Fetch Funktion noch bequemer aufrufen zu können.
 * Die [Dokumentation von Cloudinary](https://cloudinary.com/documentation/responsive_html) beschreibt ziemlich genau was ich bei mir umgesetzt habe mit Abruf der Bilder aus dem Cloudinary Asset Management
