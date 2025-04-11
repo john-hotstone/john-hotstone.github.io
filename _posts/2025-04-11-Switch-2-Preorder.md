@@ -1,3 +1,9 @@
+---
+layout: post
+title: Switch 2 Reveal - to preorder or not to preorder
+categories: [Gaming]
+---
+
 Die Switch 2 wurde endlich offiziell vorgestellt und wir haben die ganzen heiß erwarteten Infos über die monatelang spekuliert wurde transparent auf dem Tisch.
 
 ## Onder ema Euro därf ’s koschta, was will
