@@ -1,7 +1,14 @@
 Die Switch 2 wurde endlich offiziell vorgestellt und wir haben die ganzen heiß erwarteten Infos über die monatelang spekuliert wurde transparent auf dem Tisch.
 
 ## Onder ema Euro därf ’s koschta, was will
-Viel diskutiert wird aktuell vor allem die Preisgestaltung. Im Vergleich zu einer PS5 ist der Preis nicht wesentlich niedriger, wobei die Leistung eher auf PS4 Niveau zu liegen scheint. Bei der Konsole selbst ist das noch einigermaßen zu verschmerzen, da handelt es sich ja um eine einmalige Anschaffung. Bei den Spielepreisen langt Nintendo dagegen bei den First Party Titeln richtig zu. Der Preis für Mario Kart World in der physischen Version sprengt bei mir jedenfalls jegliche Schmerzgrenze, zu diesem Preis würde ich das Spiel nie erwerben und vielen geht es wohl genauso. Ein Trostpflaster ist der etwas niedrigere Preis im Bundle als Vorbestellung, was wiederum relativiert wird weil schon die ersten Rabatte auf das Standardbundle ohne Spiel bei dem einen oder anderen Händler aufgetaucht ist. Nach eigenen Angaben setzt Nintendo bei den neuen Preisen die angenommene Spielzeit ins Verhältnis zum Preis. Das deutet zumindest daraufhin, dass Mario Kart uns für eine ganze Weile beschäftigen wird. Andere First Party Titeln sind dementsprechend auch etwa günstiger, Schnäppchen sind aber erstmal nicht zu erwarten, zumal Nintendo immer sehr preisstabil war. Ein Hoffnungsschimmer: ausgenommen sind Third Party Spiele von externen Studios, da macht Nintendo keine Vorgaben. Zu befürchten ist daher zwar trotzdem dass auch andere Studios die höheren Preise mitgehen, aber das eine oder andere AA dürfte auch noch zu moderaten Preisen erscheinen.
+Viel diskutiert wird aktuell vor allem die Preisgestaltung. Im Vergleich zu einer PS5 ist der Preis nicht wesentlich niedriger, wobei die Leistung eher auf PS4 Niveau zu liegen scheint.
+
+Bei der Konsole selbst ist das noch einigermaßen zu verschmerzen, da handelt es sich ja um eine einmalige Anschaffung. Bei den Spielepreisen langt Nintendo dagegen bei den First Party Titeln richtig zu. Der Preis für Mario Kart World in der physischen Version sprengt bei mir jedenfalls jegliche Schmerzgrenze, zu diesem Preis würde ich das Spiel nie erwerben und vielen geht es wohl genauso. Ein Trostpflaster ist der etwas niedrigere Preis im Bundle als Vorbestellung, was wiederum relativiert wird weil schon die ersten Rabatte auf das Standardbundle ohne Spiel bei dem einen oder anderen Händler aufgetaucht ist.
+
+Nach eigenen Angaben setzt Nintendo bei den neuen Preisen die angenommene Spielzeit ins Verhältnis zum Preis. Das deutet zumindest daraufhin, dass Mario Kart uns für eine ganze Weile beschäftigen wird. Andere First Party Titeln sind dementsprechend auch etwa günstiger, Schnäppchen sind aber erstmal nicht zu erwarten, zumal Nintendo immer sehr preisstabil war.
+
+Ein Hoffnungsschimmer: ausgenommen sind Third Party Spiele von externen Studios, da macht Nintendo keine Vorgaben. Zu befürchten ist daher zwar trotzdem dass auch andere Studios die höheren Preise mitgehen, aber das eine oder andere AA dürfte auch noch zu moderaten Preisen erscheinen.
+
 Generell sind aufgrund der gestiegenen Komplexität und Kosten in der Spieleentwicklung schon länger höhere Preise im Gespräch und historisch betrachtet haben Spiele in der Anfangsphase des Mediums auch schonmal in ähnlichen Sphären gewöhnt. Dass jetzt allerdings Nintendo noch vor GTA 6, bei dem schon eine  deutliche Steigerung in Aussicht gestellt worden ist, den Preishammer auspackt, hat jedenfalls überrascht und eine ansonsten relativ makellose Vorstellung der Konsole überschattet, die der soliden Technik und vielen guten Ansätzen zum Trotz daher durchaus ambivalent war.
 
 ## Bei Technikfragen Tech Nick fragen
@@ -11,7 +18,7 @@ Ansonsten dürfte einer der größten Unterschiede im wahrsten Sinne des Wortes 
 
 Gewachsen ist mit der ganzen neuen Technik auch der Stromverbrauch. Der Akku scheint dabei nur im Verhältnis mitgewachsen zu sein, die Laufzeit ist damit auf einem ähnlichen Niveau wie beim Vorgänger. Schade, denn etwas mehr Gewicht hätte ich für eine längere Spielzeit durchaus eingetauscht. So ist im Worst Case bei grafisch Anspruchsvollen Titeln voraussichtlich mach etwas über 2 Stunden Schluss. Gut nur, dass ein zusätzlicher USB Port auf der Oberseite das aufladen im Handheld-Modus deutlich komfortabler macht.
 
-Die sonstigen Neuerungen verbuchen ich persönlich aktuell noch eher unter Schnickschnack.
+Die sonstigen Neuerungen verbuche ich persönlich aktuell noch eher unter Schnickschnack.
 
 Mausfunktion? Wenn ich Shooter am Schreibtisch spielen will nehme ich lieber den PC. Für längere Sessions ist es wegen der im Vergleich zu einer normalen Maus doch recht kleinen Joy-Cons ohnehin kein besonders bequemes Erlebnis und werde ich daher kaum nutzen. Cooler wäre es doch da, wenn ich meine eigene Bluetooth Maus für entsprechende Spiele verwenden könnte, dann macht das ganze eine ganze Ecke mehr Sinn.
 
@@ -33,7 +40,7 @@ Donkey Kong schaut ganz cool aus, auch wenn die Kameraführung dank der größte
 ### Metroid Prime 4: Beyond
 Metroid profitiert deutlich am meisten von der Maussteuerung und schaut schick aus, das könnte ganz nett werden. Again: Shooter auf Konsolen: Kann man machen, muss man aber nicht. (Außer ich darf meine eigene Maus verwenden ;) )
 
-#### Hyrule Warriors: Chronik der Versiegelung
+### Hyrule Warriors: Chronik der Versiegelung
 Mehr von Zelda? Yay. Ein weiteres Warriors Spiel? Nay. Hätte es wegen der Story gerne erlebt, aber das ist mir dann doch zu stumpf. Ein richtiges Zelda bitte, danke.
 
 ### Nintendo Switch Welcome Tour
