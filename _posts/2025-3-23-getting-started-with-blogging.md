@@ -1,3 +1,8 @@
+---
+layout: post
+title: Getting started with Blogging
+categories: [IT, Blogging]
+---
 Hattest du jemals Lust einen Blog zu verfassen um die Welt an deinen Gedanken, Erfahrungen und Erlebnissen teilhaben zu lassen? Die Gründe mögen vielfältig sein, aber am Anfang stehen in jedem Fall einige Grundsatzüberlegungen und -entscheidungen, die man anstellen und fällen sollte. Dieser Artikel soll sich jetzt weniger um die inhaltliche Ausrichtung oder Sinnhaftigkeit eines solchen Vorhabens drehen (liest überhaupt noch jemand Blogs?), sondern sich mit der Technik auseinandersetzen. Das eine oder andere funktioniert dann natürlich auch für beliebige andere Webseiten und nicht nur für Blogs, aber ich bleibe mit meinen Ausführungen nach Möglichkeit bei dem, was ich hier selbst versuche und das ist nun mal das Bloggen ;).
 
 ## Wohin mit meinem Blog?
