@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Somme, Sonne, Burger
+title: Sommer, Sonne, Burger
 categories: [Kulinarische Abenteuer]
 ---
 Der Sommer steht vor der Tür und was liegt da näher als den Grill anzuwerfen und die Sonne mit ein paar kulinarischen Highlights hochleben zu lassen? Ganz hoch im Kurs stehen bei mir da seit einer Weile Burger in verschiedensten Variationen. Klassische Cheeseburger sind natürlich auch lecker, aber es gibt da draußen jede Menge kreative professionelle Burgerbrater, die das Burgerhandwerk auf die nächste Stufe heben und jeden FriedMcKing-Burger so richtig alt aussehen lassen. Eine tolle Auswahl findet man bei [Burnhard](https://www.burnhard.com/de/rezepte/burger), die offensichtlich nicht nur Grills, sondern auch Grillrezepte können. Im Folgenden Stelle ich euch ein paar meiner Favoriten vor, Nachmachen unbedingt empfohlen!
+
 
 ## Der Klassiker – aber mit mehr Smash
 Mein erster Smashed Burger war eine Offenbarung. Die Röstaromen und das Mundgefühl sind nicht mit einem herkömmlichen Patty zu vergleichen und in der Herstellung schnell und unkompliziert. Hierzulande bisher nur spärlich zu finden, sind Smashed Burger im Ausland schon eine feste Größe und das aus gutem Grund, wenn ihr mich fragt. Der wesentliche Unterschied zu anderen Burgern? Das Hack bei hoher Hitze wird schön flach gepresst und liegt damit optimal auf der Grillfläche an. Das führt zu ordentlich und flächig sonnengebräunten Patties mit maximaler Knusperkruste statt rosa Kern. Diese Schätzchen sind auf jeden Fall durch und durch „Well Done“ und da man nicht groß auf die Kerntemperatur achten muss (durch ist durch) auch noch leichter in der Handhabung als konventionelle Burger, dazu wegen der geringen Dicke auch ruckzuck in unter 2 Minuten fertig.
